@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - gem
+  - ground
+  - teleporter
+  - enemy
+  - projectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - bg
+  - Water
+  - UI
+  - player
+  - enemy
+  - projectile
+  - ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bg
+    uniqueID: 3326305553
+    locked: 0
+  - name: bg_obj
+    uniqueID: 2295207337
+    locked: 0
+  - name: ground
+    uniqueID: 4190563863
+    locked: 0
+  - name: ground_obj
+    uniqueID: 2786935719
+    locked: 0
+  - name: lower_ground
+    uniqueID: 2345413343
+    locked: 0
+  - name: character
+    uniqueID: 1258748677
+    locked: 0
+  - name: gem
+    uniqueID: 3629822857
+    locked: 0
+  - name: projectile
+    uniqueID: 3113736517
+    locked: 0

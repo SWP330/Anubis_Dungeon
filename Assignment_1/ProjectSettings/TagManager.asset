@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - bug
+  - endPoint
   layers:
   - Default
   - TransparentFX
@@ -15,8 +17,8 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
+  - wall
+  - ground
   - 
   - 
   - 
@@ -40,4 +42,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 2916789453
+    locked: 0
+  - name: wall_front
+    uniqueID: 2032342505
+    locked: 0
+  - name: player
+    uniqueID: 2728702269
+    locked: 0
+  - name: wall_top
+    uniqueID: 2945715209
     locked: 0
